@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\SLN.YURI\YURI.DOMINIO\bin\Debug\net6.0\YURI.DOMINIO.deps.json
+C:\Users\HP\source\repos\SLN.YURI\YURI.DOMINIO\bin\Debug\net6.0\YURI.DOMINIO.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.DOMINIO\bin\Debug\net6.0\YURI.DOMINIO.pdb
+C:\Users\HP\source\repos\SLN.YURI\YURI.DOMINIO\obj\Debug\net6.0\YURI.DOMINIO.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SLN.YURI\YURI.DOMINIO\obj\Debug\net6.0\YURI.DOMINIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SLN.YURI\YURI.DOMINIO\obj\Debug\net6.0\YURI.DOMINIO.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SLN.YURI\YURI.DOMINIO\obj\Debug\net6.0\YURI.DOMINIO.AssemblyInfo.cs
+C:\Users\HP\source\repos\SLN.YURI\YURI.DOMINIO\obj\Debug\net6.0\YURI.DOMINIO.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SLN.YURI\YURI.DOMINIO\obj\Debug\net6.0\YURI.DOMINIO.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.DOMINIO\obj\Debug\net6.0\refint\YURI.DOMINIO.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.DOMINIO\obj\Debug\net6.0\YURI.DOMINIO.pdb
+C:\Users\HP\source\repos\SLN.YURI\YURI.DOMINIO\obj\Debug\net6.0\ref\YURI.DOMINIO.dll

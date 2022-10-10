@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\bin\Debug\net6.0\YURI.APLICACION.deps.json
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\bin\Debug\net6.0\YURI.APLICACION.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\bin\Debug\net6.0\YURI.APLICACION.pdb
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\obj\Debug\net6.0\YURI.APLICACION.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\obj\Debug\net6.0\YURI.APLICACION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\obj\Debug\net6.0\YURI.APLICACION.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\obj\Debug\net6.0\YURI.APLICACION.AssemblyInfo.cs
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\obj\Debug\net6.0\YURI.APLICACION.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\obj\Debug\net6.0\YURI.APLICACION.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\obj\Debug\net6.0\refint\YURI.APLICACION.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\obj\Debug\net6.0\YURI.APLICACION.pdb
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\obj\Debug\net6.0\ref\YURI.APLICACION.dll
