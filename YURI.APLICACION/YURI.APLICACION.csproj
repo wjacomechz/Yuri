@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\YURI.DOMINIO\YURI.DOMINIO.csproj" />
+  </ItemGroup>
+
 </Project>
