@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "YURI.APLICACION/1.0.0": {
+        "dependencies": {
+          "YURI.DOMINIO": "1.0.0"
+        },
         "runtime": {
           "YURI.APLICACION.dll": {}
+        }
+      },
+      "YURI.DOMINIO/1.0.0": {
+        "runtime": {
+          "YURI.DOMINIO.dll": {}
         }
       }
     }
   },
   "libraries": {
     "YURI.APLICACION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YURI.DOMINIO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
