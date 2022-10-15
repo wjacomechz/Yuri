@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1qYqgKoGBCkrcTCkMcYuE2S5X3L0aFVQpzkk5hfH37g=",
+  "Source": "YURI.GATEWAY.API",
+  "BasePath": "_content/YURI.GATEWAY.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
