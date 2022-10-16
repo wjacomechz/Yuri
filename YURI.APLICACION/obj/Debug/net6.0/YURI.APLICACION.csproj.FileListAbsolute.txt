@@ -13,3 +13,5 @@ C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\obj\Debug\net6.0\ref\YURI.APLI
 C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\bin\Debug\net6.0\YURI.DOMINIO.dll
 C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\bin\Debug\net6.0\YURI.DOMINIO.pdb
 C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\obj\Debug\net6.0\YURI.APLICACION.csproj.CopyComplete
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\bin\Debug\net6.0\YURI.APLICACION.DTOs.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION\bin\Debug\net6.0\YURI.APLICACION.DTOs.pdb

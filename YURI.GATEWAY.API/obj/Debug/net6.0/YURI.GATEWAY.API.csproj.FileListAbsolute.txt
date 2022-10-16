@@ -25,3 +25,12 @@ C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\obj\Debug\net6.0\refint\YURI.
 C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\obj\Debug\net6.0\YURI.GATEWAY.API.pdb
 C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\obj\Debug\net6.0\YURI.GATEWAY.API.genruntimeconfig.cache
 C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\obj\Debug\net6.0\ref\YURI.GATEWAY.API.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\bin\Debug\net6.0\YURI.APLICACION.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\bin\Debug\net6.0\YURI.APLICACION.DTOs.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\bin\Debug\net6.0\YURI.DOMINIO.dll
+C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\bin\Debug\net6.0\YURI.APLICACION.pdb
+C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\bin\Debug\net6.0\YURI.APLICACION.DTOs.pdb
+C:\Users\HP\source\repos\SLN.YURI\YURI.GATEWAY.API\bin\Debug\net6.0\YURI.DOMINIO.pdb

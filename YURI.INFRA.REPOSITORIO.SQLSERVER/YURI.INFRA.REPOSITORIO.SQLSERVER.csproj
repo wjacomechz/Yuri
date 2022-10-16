@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\YURI.DOMINIO\YURI.DOMINIO.csproj" />
     <ProjectReference Include="..\YURI.TRANSVERSAL.COMMON\YURI.TRANSVERSAL.COMMON.csproj" />
   </ItemGroup>
 

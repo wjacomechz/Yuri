@@ -7,6 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.2.2" />
+    <PackageReference Include="MediatR" Version="11.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YURI.APLICACION.DTOs\YURI.APLICACION.DTOs.csproj" />
     <ProjectReference Include="..\YURI.DOMINIO\YURI.DOMINIO.csproj" />
   </ItemGroup>
 
