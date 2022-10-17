@@ -7,11 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="11.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\YURI.APLICACION\YURI.APLICACION.csproj" />
+    <ProjectReference Include="..\YURI.IoC\YURI.IoC.csproj" />
+    <ProjectReference Include="..\YURI.PRESENTER.WEBEXCEPTIONS\YURI.PRESENTER.WEBEXCEPTIONS.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 ﻿namespace YURI.DOMINIO.POCOEntidades.Seguridades
 {
-    public sealed class PerfilUsuario
+    public class PerfilUsuario
     {
         public long IdUsuario { get; set; }
         public int IdPerfil { get; set; }

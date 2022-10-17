@@ -17,11 +17,12 @@ namespace YURI.INFRA.REPOSITORIO.SQLSERVER.Modelos.Seguridades
         {
             string namesp = "INS_Usuario";
             object[] parameters = new object[] {
-                    dm_usuario.NombreCompleto,
-                    dm_usuario.Alias,
-                    dm_usuario.Pass,
-                    dm_usuario.Email
-                };
+                dm_usuario.IdTipoUsuario,
+                dm_usuario.NombreCompleto,
+                dm_usuario.Alias,
+                dm_usuario.Pass,
+                dm_usuario.Email
+            };
             SqlParameter[] parameters_out ={
                 new SqlParameter() { ParameterName = "@codigoRetorno", Size = 4 },
                 new SqlParameter() { ParameterName = "@mensajeRetorno", Size = 150 }

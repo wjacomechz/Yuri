@@ -1,6 +1,6 @@
 ﻿namespace YURI.DOMINIO.POCOEntidades.Seguridades
 {
-    public sealed class AtribucionPagina
+    public class AtribucionPagina
     {
         public int IdPerfil { get; set; }
         public int IdOpcion { get; set; }

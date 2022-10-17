@@ -1,6 +1,6 @@
 ﻿namespace YURI.DOMINIO.POCOEntidades.Seguridades
 {
-    public sealed class Usuario
+    public class Usuario
     {
         public long Id { get; set; }
         public short IdTipoUsuario { get; set; }

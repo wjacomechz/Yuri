@@ -1,6 +1,6 @@
 ﻿namespace YURI.DOMINIO.POCOEntidades.Seguridades
 {
-    public sealed class Opcion
+    public class Opcion
     {
         public int Id { get; set; }
         public int IdModulo { get; set; }
