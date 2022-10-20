@@ -11,7 +11,8 @@
           "MediatR": "11.0.0",
           "Swashbuckle.AspNetCore": "6.2.3",
           "YURI.IoC": "1.0.0",
-          "YURI.PRESENTER.WEBEXCEPTIONS": "1.0.0"
+          "YURI.PRESENTADORES": "1.0.0",
+          "YURI.WEBEXCEPTIONS.PRESENTADOR": "1.0.0"
         },
         "runtime": {
           "YURI.GATEWAY.API.dll": {}
@@ -1065,13 +1066,13 @@
           "YURI.IoC.dll": {}
         }
       },
-      "YURI.PRESENTER.WEBEXCEPTIONS/1.0.0": {
+      "YURI.PRESENTADORES/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
-          "YURI.APLICACION": "1.0.0"
+          "YURI.APLICACION": "1.0.0",
+          "YURI.TRANSVERSAL.COMMON": "1.0.0"
         },
         "runtime": {
-          "YURI.PRESENTER.WEBEXCEPTIONS.dll": {}
+          "YURI.PRESENTADORES.dll": {}
         }
       },
       "YURI.TRANSVERSAL.COMMON/1.0.0": {
@@ -1088,6 +1089,15 @@
         },
         "runtime": {
           "YURI.TRANSVERSAL.COMMON.dll": {}
+        }
+      },
+      "YURI.WEBEXCEPTIONS.PRESENTADOR/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "YURI.APLICACION": "1.0.0"
+        },
+        "runtime": {
+          "YURI.WEBEXCEPTIONS.PRESENTADOR.dll": {}
         }
       }
     }
@@ -1942,12 +1952,17 @@
       "serviceable": false,
       "sha512": ""
     },
-    "YURI.PRESENTER.WEBEXCEPTIONS/1.0.0": {
+    "YURI.PRESENTADORES/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "YURI.TRANSVERSAL.COMMON/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YURI.WEBEXCEPTIONS.PRESENTADOR/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

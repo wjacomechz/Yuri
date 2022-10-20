@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WQJ3gU04PWn9Y96BVd54YKlrrP6u8OscN3qbdnBXHt5ghgu1UJLeqnyZjCkJlFCgnhutHEUILfyj0fYv0n6Xxw==",
+  "dgSpecHash": "vYAwMfH4Cj0FkY39Bg10WTzHKd6mFbiVI28lLmd7h/7C6fhQXMOI5HVJB2iyFcOPpHuMF3G0dpyRqYRKATeU7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.IoC\\YURI.IoC.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.IoC\\YURI.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.2\\fluentvalidation.dependencyinjectionextensions.11.2.2.nupkg.sha512",

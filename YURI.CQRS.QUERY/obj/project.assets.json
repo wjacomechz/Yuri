@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.CQRS.QUERY\\YURI.CQRS.QUERY.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.CQRS.QUERY\\YURI.CQRS.QUERY.csproj",
       "projectName": "YURI.CQRS.QUERY",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.CQRS.QUERY\\YURI.CQRS.QUERY.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.CQRS.QUERY\\YURI.CQRS.QUERY.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.CQRS.QUERY\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.CQRS.QUERY\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

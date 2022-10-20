@@ -13,7 +13,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\YURI.IoC\YURI.IoC.csproj" />
-    <ProjectReference Include="..\YURI.PRESENTER.WEBEXCEPTIONS\YURI.PRESENTER.WEBEXCEPTIONS.csproj" />
+    <ProjectReference Include="..\YURI.PRESENTADORES\YURI.PRESENTADORES.csproj" />
+    <ProjectReference Include="..\YURI.WEBEXCEPTIONS.PRESENTADOR\YURI.WEBEXCEPTIONS.PRESENTADOR.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ri6kMXYPBzL/xjCaCH1SBStwrJKSCNFONnAhLbCOc1oYHKTAqCkunPFYOYadw9wSRA8z7PACQInZbE2CR5FFOA==",
+  "dgSpecHash": "y48s8MZv8Mzjlx39ZNHBPhcaVW07DK8MsB4pFpjxM8z40FP/QxQhMSCzimEpXFn+fzqv0rvK705CGKmCTjN4Ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.CQRS.QUERY\\YURI.CQRS.QUERY.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.CQRS.QUERY\\YURI.CQRS.QUERY.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

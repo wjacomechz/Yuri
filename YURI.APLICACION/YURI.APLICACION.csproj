@@ -17,4 +17,8 @@
     <ProjectReference Include="..\YURI.TRANSVERSAL.COMMON\YURI.TRANSVERSAL.COMMON.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="CRUD_Atribuciones\" />
+  </ItemGroup>
+
 </Project>

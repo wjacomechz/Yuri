@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WJU0EW68uvWXn8aeuT7uuN8PMOww1xD6qMBiUZWr2swlbIaO3c/sBntCIRLz5RrOjvpO0lN2CjpqetZbErUNCg==",
+  "dgSpecHash": "85yskOU/Nem1YeVxBIFizHDKpPwHfHyWht7yUfGZ1iGaGrx4oFrYBG1lf97+p6Fq2cn8EJUNYeVgrpds6QVd/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.GATEWAY.API\\YURI.GATEWAY.API.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.GATEWAY.API\\YURI.GATEWAY.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.2\\fluentvalidation.dependencyinjectionextensions.11.2.2.nupkg.sha512",

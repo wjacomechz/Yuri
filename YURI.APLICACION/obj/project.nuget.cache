@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gd15Axdyz3h9y7Vjs8lERGbkslshilES2tu2BY+kvLMY1PPaJvBteTMte+X38jZYdRBdYu7ZTnjQ4sTg/Iv1WA==",
+  "dgSpecHash": "+HhxTMTAXAvz5nb4l2ogAplikna65V4KHTdda8koq8r++VFwoseqnZKJd/4g7P/6OBklOKtiyJBF0bARN+5qGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.APLICACION\\YURI.APLICACION.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION\\YURI.APLICACION.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",

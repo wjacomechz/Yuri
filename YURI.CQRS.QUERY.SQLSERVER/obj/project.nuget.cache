@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+FEIi2IzGWAGwBMu0BVZD6eCyapXwrs7pyo5YadijFlb2Yq3RDCr/tuYvWCvO+bleK9qLMnzQxnW1MpFJIrjBg==",
+  "dgSpecHash": "4t9GsOZgQAJN+qt8CPUryd2ki188BkKtjw53i6TXlt80R+Vd+Ll1E4H/LcN7Ke0sFFh8SsYzkv+EE/kGHbrMHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.CQRS.QUERY.SQLSERVER\\YURI.CQRS.QUERY.SQLSERVER.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.CQRS.QUERY.SQLSERVER\\YURI.CQRS.QUERY.SQLSERVER.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

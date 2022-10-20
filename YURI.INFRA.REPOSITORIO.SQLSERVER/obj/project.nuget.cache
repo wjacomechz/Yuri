@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "99Y5GP1QT15CA3MMzdV9g/kTYDO7RtAeY/v7pqy+WOc1zlqrpjSmRWbP/+SuQSGSyPnep2HuF83erVFaCxUuzA==",
+  "dgSpecHash": "ReNLCwffApEJRq2KDMBytGY0YXWZgPSyNVroa0eL3H+AG1Q9hvOYB523+MJV/t6z2JMd2OL+qUQo+1/wSEwi5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.INFRA.REPOSITORIO.SQLSERVER\\YURI.INFRA.REPOSITORIO.SQLSERVER.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.INFRA.REPOSITORIO.SQLSERVER\\YURI.INFRA.REPOSITORIO.SQLSERVER.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

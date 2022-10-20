@@ -2,7 +2,7 @@ using FluentValidation;
 using System.Configuration;
 using YURI.DOMINIO.Excepciones;
 using YURI.IoC;
-using YURI.PRESENTER.WEBEXCEPTIONS;
+using YURI.WEBEXCEPTIONS.PRESENTADOR;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -4,7 +4,6 @@
     {
         public long Id { get; set; }
         public short IdTipoUsuario { get; set; }
-        public string NombreCompleto { get; set; }
         public string Alias { get; set; }
         public string Pass { get; set; }
         public string Email { get; set; }
@@ -19,7 +18,6 @@
         public TipoUsuario TipoUsuario { get; set; }
         public Usuario()
         {
-            NombreCompleto = string.Empty;
             Alias = string.Empty;
             Pass = string.Empty;
             Email = string.Empty;

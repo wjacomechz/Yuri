@@ -3143,11 +3143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.IoC\\YURI.IoC.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.IoC\\YURI.IoC.csproj",
       "projectName": "YURI.IoC",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.IoC\\YURI.IoC.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.IoC\\YURI.IoC.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.IoC\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3164,14 +3164,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.APLICACION\\YURI.APLICACION.csproj": {
-              "projectPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.APLICACION\\YURI.APLICACION.csproj"
+            "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION\\YURI.APLICACION.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION\\YURI.APLICACION.csproj"
             },
-            "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.INFRA.REPOSITORIO.SQLSERVER\\YURI.INFRA.REPOSITORIO.SQLSERVER.csproj": {
-              "projectPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.INFRA.REPOSITORIO.SQLSERVER\\YURI.INFRA.REPOSITORIO.SQLSERVER.csproj"
+            "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.INFRA.REPOSITORIO.SQLSERVER\\YURI.INFRA.REPOSITORIO.SQLSERVER.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.INFRA.REPOSITORIO.SQLSERVER\\YURI.INFRA.REPOSITORIO.SQLSERVER.csproj"
             },
-            "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj": {
-              "projectPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj"
+            "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj"
             }
           }
         }

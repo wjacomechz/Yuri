@@ -10,3 +10,15 @@ C:\Users\HP\source\repos\SLN.YURI\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\YURI.
 C:\Users\HP\source\repos\SLN.YURI\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\refint\YURI.TRANSVERSAL.COMMON.dll
 C:\Users\HP\source\repos\SLN.YURI\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\YURI.TRANSVERSAL.COMMON.pdb
 C:\Users\HP\source\repos\SLN.YURI\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\ref\YURI.TRANSVERSAL.COMMON.dll
+C:\Users\HP\source\repos\Yuri\YURI.TRANSVERSAL.COMMON\bin\Debug\net6.0\YURI.TRANSVERSAL.COMMON.deps.json
+C:\Users\HP\source\repos\Yuri\YURI.TRANSVERSAL.COMMON\bin\Debug\net6.0\YURI.TRANSVERSAL.COMMON.dll
+C:\Users\HP\source\repos\Yuri\YURI.TRANSVERSAL.COMMON\bin\Debug\net6.0\YURI.TRANSVERSAL.COMMON.pdb
+C:\Users\HP\source\repos\Yuri\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\YURI.TRANSVERSAL.COMMON.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yuri\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\YURI.TRANSVERSAL.COMMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Yuri\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\YURI.TRANSVERSAL.COMMON.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Yuri\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\YURI.TRANSVERSAL.COMMON.AssemblyInfo.cs
+C:\Users\HP\source\repos\Yuri\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\YURI.TRANSVERSAL.COMMON.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yuri\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\YURI.TRANSVERSAL.COMMON.dll
+C:\Users\HP\source\repos\Yuri\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\refint\YURI.TRANSVERSAL.COMMON.dll
+C:\Users\HP\source\repos\Yuri\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\YURI.TRANSVERSAL.COMMON.pdb
+C:\Users\HP\source\repos\Yuri\YURI.TRANSVERSAL.COMMON\obj\Debug\net6.0\ref\YURI.TRANSVERSAL.COMMON.dll

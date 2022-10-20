@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using YURI.APLICACION.Common.Behaviors;
-using YURI.APLICACION.MantUsuario;
+using YURI.APLICACION.CRUD_Usuario.Crear;
 using YURI.DOMINIO.Constants;
 using YURI.DOMINIO.Interfaces.Repositorios;
 using YURI.INFRA.REPOSITORIO.SQLSERVER.Modelos.Seguridades;

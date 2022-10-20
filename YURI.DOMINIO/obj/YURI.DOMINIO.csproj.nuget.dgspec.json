@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.DOMINIO\\YURI.DOMINIO.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\YURI.DOMINIO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.DOMINIO\\YURI.DOMINIO.csproj": {
+    "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\YURI.DOMINIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.DOMINIO\\YURI.DOMINIO.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\YURI.DOMINIO.csproj",
         "projectName": "YURI.DOMINIO",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.DOMINIO\\YURI.DOMINIO.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\YURI.DOMINIO.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.DOMINIO\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,3 +10,15 @@ C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION.DTOs\obj\Debug\net6.0\YURI.APL
 C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION.DTOs\obj\Debug\net6.0\refint\YURI.APLICACION.DTOs.dll
 C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION.DTOs\obj\Debug\net6.0\YURI.APLICACION.DTOs.pdb
 C:\Users\HP\source\repos\SLN.YURI\YURI.APLICACION.DTOs\obj\Debug\net6.0\ref\YURI.APLICACION.DTOs.dll
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.DTOs\bin\Debug\net6.0\YURI.APLICACION.DTOs.deps.json
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.DTOs\bin\Debug\net6.0\YURI.APLICACION.DTOs.dll
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.DTOs\bin\Debug\net6.0\YURI.APLICACION.DTOs.pdb
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.DTOs\obj\Debug\net6.0\YURI.APLICACION.DTOs.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.DTOs\obj\Debug\net6.0\YURI.APLICACION.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.DTOs\obj\Debug\net6.0\YURI.APLICACION.DTOs.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.DTOs\obj\Debug\net6.0\YURI.APLICACION.DTOs.AssemblyInfo.cs
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.DTOs\obj\Debug\net6.0\YURI.APLICACION.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.DTOs\obj\Debug\net6.0\YURI.APLICACION.DTOs.dll
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.DTOs\obj\Debug\net6.0\refint\YURI.APLICACION.DTOs.dll
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.DTOs\obj\Debug\net6.0\YURI.APLICACION.DTOs.pdb
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.DTOs\obj\Debug\net6.0\ref\YURI.APLICACION.DTOs.dll

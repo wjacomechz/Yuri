@@ -2101,18 +2101,18 @@
           "bin/placeholder/YURI.IoC.dll": {}
         }
       },
-      "YURI.PRESENTER.WEBEXCEPTIONS/1.0.0": {
+      "YURI.PRESENTADORES/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
-          "YURI.APLICACION": "1.0.0"
+          "YURI.APLICACION": "1.0.0",
+          "YURI.TRANSVERSAL.COMMON": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/YURI.PRESENTER.WEBEXCEPTIONS.dll": {}
+          "bin/placeholder/YURI.PRESENTADORES.dll": {}
         },
         "runtime": {
-          "bin/placeholder/YURI.PRESENTER.WEBEXCEPTIONS.dll": {}
+          "bin/placeholder/YURI.PRESENTADORES.dll": {}
         }
       },
       "YURI.TRANSVERSAL.COMMON/1.0.0": {
@@ -2134,6 +2134,20 @@
         },
         "runtime": {
           "bin/placeholder/YURI.TRANSVERSAL.COMMON.dll": {}
+        }
+      },
+      "YURI.WEBEXCEPTIONS.PRESENTADOR/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "YURI.APLICACION": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/YURI.WEBEXCEPTIONS.PRESENTADOR.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YURI.WEBEXCEPTIONS.PRESENTADOR.dll": {}
         }
       }
     }
@@ -5925,15 +5939,20 @@
       "path": "../YURI.IoC/YURI.IoC.csproj",
       "msbuildProject": "../YURI.IoC/YURI.IoC.csproj"
     },
-    "YURI.PRESENTER.WEBEXCEPTIONS/1.0.0": {
+    "YURI.PRESENTADORES/1.0.0": {
       "type": "project",
-      "path": "../YURI.PRESENTER.WEBEXCEPTIONS/YURI.PRESENTER.WEBEXCEPTIONS.csproj",
-      "msbuildProject": "../YURI.PRESENTER.WEBEXCEPTIONS/YURI.PRESENTER.WEBEXCEPTIONS.csproj"
+      "path": "../YURI.PRESENTADORES/YURI.PRESENTADORES.csproj",
+      "msbuildProject": "../YURI.PRESENTADORES/YURI.PRESENTADORES.csproj"
     },
     "YURI.TRANSVERSAL.COMMON/1.0.0": {
       "type": "project",
       "path": "../YURI.TRANSVERSAL.COMMON/YURI.TRANSVERSAL.COMMON.csproj",
       "msbuildProject": "../YURI.TRANSVERSAL.COMMON/YURI.TRANSVERSAL.COMMON.csproj"
+    },
+    "YURI.WEBEXCEPTIONS.PRESENTADOR/1.0.0": {
+      "type": "project",
+      "path": "../YURI.WEBEXCEPTIONS.PRESENTADOR/YURI.WEBEXCEPTIONS.PRESENTADOR.csproj",
+      "msbuildProject": "../YURI.WEBEXCEPTIONS.PRESENTADOR/YURI.WEBEXCEPTIONS.PRESENTADOR.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5941,7 +5960,8 @@
       "MediatR >= 11.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3",
       "YURI.IoC >= 1.0.0",
-      "YURI.PRESENTER.WEBEXCEPTIONS >= 1.0.0"
+      "YURI.PRESENTADORES >= 1.0.0",
+      "YURI.WEBEXCEPTIONS.PRESENTADOR >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5950,11 +5970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.GATEWAY.API\\YURI.GATEWAY.API.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.GATEWAY.API\\YURI.GATEWAY.API.csproj",
       "projectName": "YURI.GATEWAY.API",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.GATEWAY.API\\YURI.GATEWAY.API.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.GATEWAY.API\\YURI.GATEWAY.API.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.GATEWAY.API\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.GATEWAY.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5971,11 +5991,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.IoC\\YURI.IoC.csproj": {
-              "projectPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.IoC\\YURI.IoC.csproj"
+            "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.IoC\\YURI.IoC.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.IoC\\YURI.IoC.csproj"
             },
-            "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.PRESENTER.WEBEXCEPTIONS\\YURI.PRESENTER.WEBEXCEPTIONS.csproj": {
-              "projectPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.PRESENTER.WEBEXCEPTIONS\\YURI.PRESENTER.WEBEXCEPTIONS.csproj"
+            "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.PRESENTADORES\\YURI.PRESENTADORES.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.PRESENTADORES\\YURI.PRESENTADORES.csproj"
+            },
+            "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.WEBEXCEPTIONS.PRESENTADOR\\YURI.WEBEXCEPTIONS.PRESENTADOR.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.WEBEXCEPTIONS.PRESENTADOR\\YURI.WEBEXCEPTIONS.PRESENTADOR.csproj"
             }
           }
         }

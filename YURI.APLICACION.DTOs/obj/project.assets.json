@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.APLICACION.DTOs\\YURI.APLICACION.DTOs.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.DTOs\\YURI.APLICACION.DTOs.csproj",
       "projectName": "YURI.APLICACION.DTOs",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.APLICACION.DTOs\\YURI.APLICACION.DTOs.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.DTOs\\YURI.APLICACION.DTOs.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.APLICACION.DTOs\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.DTOs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

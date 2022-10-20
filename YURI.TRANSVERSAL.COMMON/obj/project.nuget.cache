@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6d358lg6yH0BXdUQLuG+veW13+WIUxfOo8KTJjsGWTsIMEyVyuMc96blQcpGQHoHfhJpkZGc9+lpJ5JHm0FvyA==",
+  "dgSpecHash": "HCpj/bGq/VC6nK95PLVsr9hjG5PyWQ0G8vf+Io58pCL6wcDfHJASpp0AN5xiVKI0kdt8hSAvl3WfaWdeyDO0Ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\SLN.YURI\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
