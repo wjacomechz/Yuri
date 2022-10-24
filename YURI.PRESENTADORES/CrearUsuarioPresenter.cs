@@ -1,9 +1,10 @@
 ﻿using YURI.APLICACION.DTOs.Common;
+using YURI.APLICACION.PUERTOS.CRUD_Usuario;
 using YURI.TRANSVERSAL.COMMON;
 
 namespace YURI.PRESENTADORES
 {
-    public class CrearUsuarioPresenter : IPresenters<AppResponse, string>
+    public class CrearUsuarioPresenter : ICrearUsuarioOutputPort, IPresenters<string>
     {
         public string Content { get; private set; }
 
@@ -12,10 +13,11 @@ namespace YURI.PRESENTADORES
             Content = string.Empty;
         }
 
-        public void Handle(AppResponse response)
+        public Task Handle(AppResult resultado)
         {
             string mensaje = string.Empty;
-            Content = JCHNETConversions.SerializeJson(response, ref mensaje);
+            Content = JCHNETConversions.SerializeJson(resultado, ref mensaje);
+            return Task.CompletedTask;
         }
     }
 }

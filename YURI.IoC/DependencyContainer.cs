@@ -1,19 +1,15 @@
 ﻿using FluentValidation;
-using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using YURI.APLICACION.Common.Behaviors;
-using YURI.APLICACION.CRUD_Usuario.Crear;
+using YURI.APLICACION.Common.Validators;
+using YURI.APLICACION.CRUD_Usuario;
+using YURI.APLICACION.PUERTOS.CRUD_Usuario;
 using YURI.DOMINIO.Constants;
 using YURI.DOMINIO.Interfaces.Repositorios;
 using YURI.INFRA.REPOSITORIO.SQLSERVER.Modelos.Seguridades;
 using YURI.INFRA.REPOSITORIO.SQLSERVER.Repositorios.Seguridades;
+using YURI.PRESENTADORES;
 using YURI.TRANSVERSAL.COMMON;
 
 namespace YURI.IoC
@@ -43,15 +39,21 @@ namespace YURI.IoC
                                 ref mensaje);
             if (JCHNET_SEGURIDADES_CadenaConexion == null) throw new Exception("Cadena de conexión SEGURIDADES inválida");
             #endregion
+
             #region Inyeccion de contextos DB
             services.AddDbContext<SeguridadesCmdContext>(options => options.UseSqlServer(JCHNET_SEGURIDADES_CadenaConexion));
             #endregion
             services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 
-            services.AddMediatR(typeof(CrearUsuarioInteractor));
+            #region Validadores para los casos de usos
             services.AddValidatorsFromAssembly(typeof(CrearUsuarioValidator).Assembly);
-            services.AddTransient(typeof(IPipelineBehavior<,>),
-                typeof(ValidationBehavior<,>));
+            #endregion
+            #region Puertos Entrada
+            services.AddScoped<ICrearUsuarioInputPort, CrearUsuarioInteractor>();
+            #endregion
+            #region Puertos Salida
+            services.AddScoped<ICrearUsuarioOutputPort, CrearUsuarioPresenter>();
+            #endregion
             return services;
         }
 

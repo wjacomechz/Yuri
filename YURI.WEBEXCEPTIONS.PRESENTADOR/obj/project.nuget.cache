@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "U2qkPYnSKqkA7bSRO1AR0bsGTsvW9eORAIuyTMOZJpWgY2O1HQ36KJhbdIgu9diqqEXYRMnv3Zw8VReFYYxa1A==",
+  "dgSpecHash": "324WmXTerGDF8KNptqTpa1ExNXDTUFeXsmCzWSnLlXvAH+McPN7m6OiS+agGilQs0V/8/RKj213Y9yN1ycaE8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.WEBEXCEPTIONS.PRESENTADOR\\YURI.WEBEXCEPTIONS.PRESENTADOR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",

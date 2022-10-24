@@ -1,14 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1qrT0+KYlhjo2v9D4t+bV7wvGCTDCioa3LLevBqND+x3XNHBQH2axY8AlJ2CUZto2DpIW4sLCSPEbnPiX20vxw==",
+  "dgSpecHash": "gXalHik9NQLFMXqSU5goNEOZ5RiniPwBdn7GxgYAldQ7RMRfuJOSMF7+DlA2aWe3kOuCy6Qd7aJ8l4tImjAS5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.API.SEGURIDAD\\YURI.API.SEGURIDAD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.2\\fluentvalidation.dependencyinjectionextensions.11.2.2.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

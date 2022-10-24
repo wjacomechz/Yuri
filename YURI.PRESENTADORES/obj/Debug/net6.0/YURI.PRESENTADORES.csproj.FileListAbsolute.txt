@@ -3,12 +3,14 @@ C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.PRESENTAD
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.PRESENTADORES.pdb
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.APLICACION.dll
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.APLICACION.DTOs.dll
+C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.APLICACION.PUERTOS.dll
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.DOMINIO.dll
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.TRANSVERSAL.COMMON.dll
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.APLICACION.pdb
-C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.APLICACION.DTOs.pdb
-C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.DOMINIO.pdb
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.TRANSVERSAL.COMMON.pdb
+C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.APLICACION.DTOs.pdb
+C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.APLICACION.PUERTOS.pdb
+C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.DOMINIO.pdb
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\obj\Debug\net6.0\YURI.PRESENTADORES.csproj.AssemblyReference.cache
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\obj\Debug\net6.0\YURI.PRESENTADORES.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\obj\Debug\net6.0\YURI.PRESENTADORES.AssemblyInfoInputs.cache

@@ -7,9 +7,6 @@ C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.API.SEGUR
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.API.SEGURIDAD.pdb
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
-C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\MediatR.dll
-C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\MediatR.Contracts.dll
-C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -63,6 +60,7 @@ C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\runtimes\win\l
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.APLICACION.dll
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.APLICACION.DTOs.dll
+C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.APLICACION.PUERTOS.dll
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.CONTROLADOR.SEGURIDAD.dll
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.DOMINIO.dll
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.INFRA.REPOSITORIO.SQLSERVER.dll
@@ -75,6 +73,7 @@ C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.IoC.pdb
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.WEBEXCEPTIONS.PRESENTADOR.pdb
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.APLICACION.pdb
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.APLICACION.DTOs.pdb
+C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.APLICACION.PUERTOS.pdb
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.DOMINIO.pdb
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.INFRA.REPOSITORIO.SQLSERVER.pdb
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.PRESENTADORES.pdb

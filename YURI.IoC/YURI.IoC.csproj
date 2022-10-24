@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.2.2" />
-    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
   </ItemGroup>
@@ -16,6 +15,7 @@
   <ItemGroup>
     <ProjectReference Include="..\YURI.APLICACION\YURI.APLICACION.csproj" />
     <ProjectReference Include="..\YURI.INFRA.REPOSITORIO.SQLSERVER\YURI.INFRA.REPOSITORIO.SQLSERVER.csproj" />
+    <ProjectReference Include="..\YURI.PRESENTADORES\YURI.PRESENTADORES.csproj" />
     <ProjectReference Include="..\YURI.TRANSVERSAL.COMMON\YURI.TRANSVERSAL.COMMON.csproj" />
   </ItemGroup>
 

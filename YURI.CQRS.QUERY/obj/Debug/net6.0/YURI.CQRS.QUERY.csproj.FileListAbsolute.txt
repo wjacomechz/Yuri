@@ -10,15 +10,3 @@ C:\Users\HP\source\repos\SLN.YURI\YURI.CQRS.QUERY\obj\Debug\net6.0\YURI.CQRS.QUE
 C:\Users\HP\source\repos\SLN.YURI\YURI.CQRS.QUERY\obj\Debug\net6.0\refint\YURI.CQRS.QUERY.dll
 C:\Users\HP\source\repos\SLN.YURI\YURI.CQRS.QUERY\obj\Debug\net6.0\YURI.CQRS.QUERY.pdb
 C:\Users\HP\source\repos\SLN.YURI\YURI.CQRS.QUERY\obj\Debug\net6.0\ref\YURI.CQRS.QUERY.dll
-C:\Users\HP\source\repos\Yuri\YURI.CQRS.QUERY\bin\Debug\net6.0\YURI.CQRS.QUERY.deps.json
-C:\Users\HP\source\repos\Yuri\YURI.CQRS.QUERY\bin\Debug\net6.0\YURI.CQRS.QUERY.dll
-C:\Users\HP\source\repos\Yuri\YURI.CQRS.QUERY\bin\Debug\net6.0\YURI.CQRS.QUERY.pdb
-C:\Users\HP\source\repos\Yuri\YURI.CQRS.QUERY\obj\Debug\net6.0\YURI.CQRS.QUERY.csproj.AssemblyReference.cache
-C:\Users\HP\source\repos\Yuri\YURI.CQRS.QUERY\obj\Debug\net6.0\YURI.CQRS.QUERY.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\source\repos\Yuri\YURI.CQRS.QUERY\obj\Debug\net6.0\YURI.CQRS.QUERY.AssemblyInfoInputs.cache
-C:\Users\HP\source\repos\Yuri\YURI.CQRS.QUERY\obj\Debug\net6.0\YURI.CQRS.QUERY.AssemblyInfo.cs
-C:\Users\HP\source\repos\Yuri\YURI.CQRS.QUERY\obj\Debug\net6.0\YURI.CQRS.QUERY.csproj.CoreCompileInputs.cache
-C:\Users\HP\source\repos\Yuri\YURI.CQRS.QUERY\obj\Debug\net6.0\YURI.CQRS.QUERY.dll
-C:\Users\HP\source\repos\Yuri\YURI.CQRS.QUERY\obj\Debug\net6.0\refint\YURI.CQRS.QUERY.dll
-C:\Users\HP\source\repos\Yuri\YURI.CQRS.QUERY\obj\Debug\net6.0\YURI.CQRS.QUERY.pdb
-C:\Users\HP\source\repos\Yuri\YURI.CQRS.QUERY\obj\Debug\net6.0\ref\YURI.CQRS.QUERY.dll

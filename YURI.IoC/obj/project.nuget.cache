@@ -1,14 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vYAwMfH4Cj0FkY39Bg10WTzHKd6mFbiVI28lLmd7h/7C6fhQXMOI5HVJB2iyFcOPpHuMF3G0dpyRqYRKATeU7w==",
+  "dgSpecHash": "7TC4WsxZpnBzidFO4KJZmoGEvS1IAOgcm3sFRaXabOKuDBcrdchdXw2/rQFS+7rDr9G6FGC5wq9YFn/8qAXajA==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.IoC\\YURI.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.2\\fluentvalidation.dependencyinjectionextensions.11.2.2.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

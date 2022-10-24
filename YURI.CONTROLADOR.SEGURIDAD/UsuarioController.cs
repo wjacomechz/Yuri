@@ -1,7 +1,7 @@
-﻿using MediatR;
-using Microsoft.AspNetCore.Mvc;
-using YURI.APLICACION.CRUD_Usuario.Crear;
+﻿using Microsoft.AspNetCore.Mvc;
+using YURI.APLICACION.CRUD_Usuario;
 using YURI.APLICACION.DTOs.CRUD_Usuario;
+using YURI.APLICACION.PUERTOS.CRUD_Usuario;
 using YURI.PRESENTADORES;
 
 namespace YURI.CONTROLADOR.SEGURIDAD
@@ -10,19 +10,22 @@ namespace YURI.CONTROLADOR.SEGURIDAD
     [ApiController]
     public class UsuarioController
     {
-        readonly IMediator Mediator;
+        readonly ICrearUsuarioInputPort InputPortCrearUsuario;
+        readonly ICrearUsuarioOutputPort OutputPortCrearUsuario;
 
-        public UsuarioController(IMediator mediator)
+        public UsuarioController(ICrearUsuarioInputPort inputPortCrearUsuario,
+            ICrearUsuarioOutputPort outputPortCrearUsuario)
         {
-            Mediator = mediator;
+            this.InputPortCrearUsuario = inputPortCrearUsuario;
+            this.OutputPortCrearUsuario = outputPortCrearUsuario;
         }
 
         [HttpPost("registrar-usuario")]
         public async Task<string> RegistarUsuario(CrearUsuarioParam usuarioParam)
         {
-            CrearUsuarioPresenter Presenter = new CrearUsuarioPresenter();
-            await Mediator.Send(new CrearUsuarioInputPort(usuarioParam, Presenter));
-            return Presenter.Content;
+            await this.InputPortCrearUsuario.Handle(usuarioParam);
+            var presentador = OutputPortCrearUsuario as CrearUsuarioPresenter;
+            return presentador.Content;
         }
     }
 }

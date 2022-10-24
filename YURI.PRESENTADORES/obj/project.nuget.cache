@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "riZpdhI/2avM2ngpGrJzxQPJrJK7nkAdQWgTxSvSKgu3uP9YkbQr2jqR+/I3qbkyXIgCyw3pQ770Ef7VtUsjRA==",
+  "dgSpecHash": "/XPQ6FZh/30D9cTRaptE82jf2HNrbBrXDbUZE7V3s0Te/+QY+lf5Td0EjibsCVj3Mmmvbygs4dQXZcawkbv+qg==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.PRESENTADORES\\YURI.PRESENTADORES.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -3,12 +3,14 @@ C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.C
 C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.CONTROLADOR.SEGURIDAD.pdb
 C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.APLICACION.dll
 C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.APLICACION.DTOs.dll
+C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.APLICACION.PUERTOS.dll
 C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.DOMINIO.dll
 C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.PRESENTADORES.dll
 C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.TRANSVERSAL.COMMON.dll
 C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.APLICACION.DTOs.pdb
 C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.PRESENTADORES.pdb
 C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.APLICACION.pdb
+C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.APLICACION.PUERTOS.pdb
 C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.DOMINIO.pdb
 C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\bin\Debug\net6.0\YURI.TRANSVERSAL.COMMON.pdb
 C:\Users\HP\source\repos\Yuri\YURI.CONTROLADOR.SEGURIDAD\obj\Debug\net6.0\YURI.CONTROLADOR.SEGURIDAD.csproj.AssemblyReference.cache

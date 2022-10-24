@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\bin\Debug\net6.0\YURI.APLICACION.PUERTOS.deps.json
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\bin\Debug\net6.0\YURI.APLICACION.PUERTOS.dll
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\bin\Debug\net6.0\YURI.APLICACION.PUERTOS.pdb
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\bin\Debug\net6.0\YURI.APLICACION.DTOs.dll
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\bin\Debug\net6.0\YURI.APLICACION.DTOs.pdb
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\obj\Debug\net6.0\YURI.APLICACION.PUERTOS.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\obj\Debug\net6.0\YURI.APLICACION.PUERTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\obj\Debug\net6.0\YURI.APLICACION.PUERTOS.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\obj\Debug\net6.0\YURI.APLICACION.PUERTOS.AssemblyInfo.cs
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\obj\Debug\net6.0\YURI.APLICACION.PUERTOS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\obj\Debug\net6.0\YURI.APLICACION.PUERTOS.csproj.CopyComplete
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\obj\Debug\net6.0\YURI.APLICACION.PUERTOS.dll
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\obj\Debug\net6.0\refint\YURI.APLICACION.PUERTOS.dll
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\obj\Debug\net6.0\YURI.APLICACION.PUERTOS.pdb
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION.PUERTOS\obj\Debug\net6.0\ref\YURI.APLICACION.PUERTOS.dll
