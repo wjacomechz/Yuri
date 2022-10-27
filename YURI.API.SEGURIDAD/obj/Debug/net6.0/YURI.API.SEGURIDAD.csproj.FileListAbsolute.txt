@@ -94,3 +94,5 @@ C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\obj\Debug\net6.0\refint\YURI.AP
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\obj\Debug\net6.0\YURI.API.SEGURIDAD.pdb
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\obj\Debug\net6.0\YURI.API.SEGURIDAD.genruntimeconfig.cache
 C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\obj\Debug\net6.0\ref\YURI.API.SEGURIDAD.dll
+C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.DOMINIO.ADMINISTRACION.dll
+C:\Users\HP\source\repos\Yuri\YURI.API.SEGURIDAD\bin\Debug\net6.0\YURI.DOMINIO.ADMINISTRACION.pdb

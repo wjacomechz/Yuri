@@ -44,9 +44,10 @@ namespace YURI.APLICACION.CRUD_Usuario
                     Email = usuario.Email,
                     Pass = ClaveEncriptada
                 };
-                UsuarioRepositorio.RegistrarUsuario(dm_usuario);
-                respuesta.CodigoRespuesta = "0000";
-                respuesta.MensajeRetorno = "Usuario registrado.";
+                string codigo = string.Empty, mensaje = string.Empty;
+                UsuarioRepositorio.RegistrarUsuario(dm_usuario, ref codigo, ref mensaje);
+                respuesta.CodigoRespuesta = codigo;
+                respuesta.MensajeRetorno = mensaje;
             }
             catch (Exception ex)
             {

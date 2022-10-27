@@ -93,4 +93,12 @@ namespace YURI.DOMINIO.Constants
         Bulkload = 6,
         BulkUpdateAndRegistration = 7
     }
+
+
+    public enum DenialLevel
+    {
+        ErrorTecnicoSQL,
+        ErrorControlado,
+        ErrorNoDefinido
+    }
 }

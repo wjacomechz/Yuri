@@ -1532,6 +1532,7 @@
           "YURI.APLICACION.DTOs": "1.0.0",
           "YURI.APLICACION.PUERTOS": "1.0.0",
           "YURI.DOMINIO": "1.0.0",
+          "YURI.DOMINIO.ADMINISTRACION": "1.0.0",
           "YURI.TRANSVERSAL.COMMON": "1.0.0"
         },
         "compile": {
@@ -1572,6 +1573,16 @@
         },
         "runtime": {
           "bin/placeholder/YURI.DOMINIO.dll": {}
+        }
+      },
+      "YURI.DOMINIO.ADMINISTRACION/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/YURI.DOMINIO.ADMINISTRACION.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YURI.DOMINIO.ADMINISTRACION.dll": {}
         }
       },
       "YURI.TRANSVERSAL.COMMON/1.0.0": {
@@ -4714,6 +4725,11 @@
       "type": "project",
       "path": "../YURI.DOMINIO/YURI.DOMINIO.csproj",
       "msbuildProject": "../YURI.DOMINIO/YURI.DOMINIO.csproj"
+    },
+    "YURI.DOMINIO.ADMINISTRACION/1.0.0": {
+      "type": "project",
+      "path": "../YURI.DOMINIO.ADMINISTRACION/YURI.DOMINIO.ADMINISTRACION.csproj",
+      "msbuildProject": "../YURI.DOMINIO.ADMINISTRACION/YURI.DOMINIO.ADMINISTRACION.csproj"
     },
     "YURI.TRANSVERSAL.COMMON/1.0.0": {
       "type": "project",

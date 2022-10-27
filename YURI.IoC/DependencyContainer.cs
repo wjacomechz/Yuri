@@ -3,7 +3,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using YURI.APLICACION.Common.Validators;
+using YURI.APLICACION.CRUD_Empresa;
 using YURI.APLICACION.CRUD_Usuario;
+using YURI.APLICACION.PUERTOS.CRUD_Empresa;
 using YURI.APLICACION.PUERTOS.CRUD_Usuario;
 using YURI.DOMINIO.Constants;
 using YURI.DOMINIO.Interfaces.Repositorios;
@@ -47,12 +49,15 @@ namespace YURI.IoC
 
             #region Validadores para los casos de usos
             services.AddValidatorsFromAssembly(typeof(CrearUsuarioValidator).Assembly);
+            services.AddValidatorsFromAssembly(typeof(CrearEmpresaValidator).Assembly);
             #endregion
             #region Puertos Entrada
             services.AddScoped<ICrearUsuarioInputPort, CrearUsuarioInteractor>();
+            services.AddScoped<ICrearEmpresaInputPort, CrearEmpresaInteractor>();
             #endregion
             #region Puertos Salida
             services.AddScoped<ICrearUsuarioOutputPort, CrearUsuarioPresenter>();
+            services.AddScoped<ICrearEmpresaOutputPort, CrearEmpresaPresenter>();
             #endregion
             return services;
         }

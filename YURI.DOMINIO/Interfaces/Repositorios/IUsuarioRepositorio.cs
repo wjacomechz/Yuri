@@ -9,6 +9,6 @@ namespace YURI.DOMINIO.Interfaces.Repositorios
 {
     public interface IUsuarioRepositorio
     {
-        bool RegistrarUsuario(Usuario usuario);
+        bool RegistrarUsuario(Usuario usuario, ref string codigo, ref string mensaje);
     }
 }

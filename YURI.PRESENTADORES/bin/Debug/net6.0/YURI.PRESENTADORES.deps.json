@@ -399,6 +399,7 @@
           "YURI.APLICACION.DTOs": "1.0.0",
           "YURI.APLICACION.PUERTOS": "1.0.0",
           "YURI.DOMINIO": "1.0.0",
+          "YURI.DOMINIO.ADMINISTRACION": "1.0.0",
           "YURI.TRANSVERSAL.COMMON": "1.0.0"
         },
         "runtime": {
@@ -421,6 +422,11 @@
       "YURI.DOMINIO/1.0.0": {
         "runtime": {
           "YURI.DOMINIO.dll": {}
+        }
+      },
+      "YURI.DOMINIO.ADMINISTRACION/1.0.0": {
+        "runtime": {
+          "YURI.DOMINIO.ADMINISTRACION.dll": {}
         }
       },
       "YURI.TRANSVERSAL.COMMON/1.0.0": {
@@ -736,6 +742,11 @@
       "sha512": ""
     },
     "YURI.DOMINIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YURI.DOMINIO.ADMINISTRACION/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

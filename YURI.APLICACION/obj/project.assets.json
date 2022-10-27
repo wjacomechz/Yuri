@@ -714,6 +714,16 @@
           "bin/placeholder/YURI.DOMINIO.dll": {}
         }
       },
+      "YURI.DOMINIO.ADMINISTRACION/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/YURI.DOMINIO.ADMINISTRACION.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YURI.DOMINIO.ADMINISTRACION.dll": {}
+        }
+      },
       "YURI.TRANSVERSAL.COMMON/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1886,6 +1896,11 @@
       "path": "../YURI.DOMINIO/YURI.DOMINIO.csproj",
       "msbuildProject": "../YURI.DOMINIO/YURI.DOMINIO.csproj"
     },
+    "YURI.DOMINIO.ADMINISTRACION/1.0.0": {
+      "type": "project",
+      "path": "../YURI.DOMINIO.ADMINISTRACION/YURI.DOMINIO.ADMINISTRACION.csproj",
+      "msbuildProject": "../YURI.DOMINIO.ADMINISTRACION/YURI.DOMINIO.ADMINISTRACION.csproj"
+    },
     "YURI.TRANSVERSAL.COMMON/1.0.0": {
       "type": "project",
       "path": "../YURI.TRANSVERSAL.COMMON/YURI.TRANSVERSAL.COMMON.csproj",
@@ -1898,6 +1913,7 @@
       "YURI.APLICACION.DTOs >= 1.0.0",
       "YURI.APLICACION.PUERTOS >= 1.0.0",
       "YURI.DOMINIO >= 1.0.0",
+      "YURI.DOMINIO.ADMINISTRACION >= 1.0.0",
       "YURI.TRANSVERSAL.COMMON >= 1.0.0"
     ]
   },
@@ -1933,6 +1949,9 @@
             },
             "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.PUERTOS\\YURI.APLICACION.PUERTOS.csproj": {
               "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.PUERTOS\\YURI.APLICACION.PUERTOS.csproj"
+            },
+            "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.ADMINISTRACION\\YURI.DOMINIO.ADMINISTRACION.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.ADMINISTRACION\\YURI.DOMINIO.ADMINISTRACION.csproj"
             },
             "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\YURI.DOMINIO.csproj": {
               "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\YURI.DOMINIO.csproj"

@@ -48,3 +48,5 @@ C:\Users\HP\source\repos\Yuri\YURI.IoC\obj\Debug\net6.0\YURI.IoC.dll
 C:\Users\HP\source\repos\Yuri\YURI.IoC\obj\Debug\net6.0\refint\YURI.IoC.dll
 C:\Users\HP\source\repos\Yuri\YURI.IoC\obj\Debug\net6.0\YURI.IoC.pdb
 C:\Users\HP\source\repos\Yuri\YURI.IoC\obj\Debug\net6.0\ref\YURI.IoC.dll
+C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.DOMINIO.ADMINISTRACION.dll
+C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.DOMINIO.ADMINISTRACION.pdb

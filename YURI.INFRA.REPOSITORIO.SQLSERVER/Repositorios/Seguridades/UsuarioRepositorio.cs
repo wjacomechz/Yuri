@@ -5,9 +5,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using YURI.DOMINIO.Constants;
+using YURI.DOMINIO.Excepciones;
 using YURI.DOMINIO.Interfaces.Repositorios;
 using YURI.DOMINIO.POCOEntidades.Seguridades;
 using YURI.INFRA.REPOSITORIO.SQLSERVER.Modelos.Seguridades;
+using YURI.TRANSVERSAL.COMMON;
 
 namespace YURI.INFRA.REPOSITORIO.SQLSERVER.Repositorios.Seguridades
 {
@@ -17,27 +20,24 @@ namespace YURI.INFRA.REPOSITORIO.SQLSERVER.Repositorios.Seguridades
         {
         }
 
-        public bool RegistrarUsuario(Usuario usuario)
+        public bool RegistrarUsuario(Usuario usuario, ref string codigo, ref string mensaje)
         {
             try
             {
-                string codretorno = string.Empty;
-                string mensajeretorno = string.Empty;
-                this.jchNetCmdContext.Insert_Usuario(usuario, ref codretorno, ref mensajeretorno);
-
-                return true;
-               
+                return this.jchNetCmdContext.Insert_Usuario(usuario, ref codigo, ref mensaje);
             }
             catch (SqlException ex)
             {
-                //if (ex.State == 10)
-                //    throw new DWException(ex.Message);
-                //mensaje = DWConversions.ExceptionToString(ex);
+                if (ex.State == 10)
+                    throw new GeneralException("Error tecnico db.", ex.Message);
+                codigo = DomainEnumExtensions.DenialGetString(DenialLevel.ErrorTecnicoSQL);
+                mensaje = JCHNETConversions.ExceptionToString(ex);
                 return false;
             }
             catch (Exception ex)
             {
-                //mensaje = DWConversions.ExceptionToString(ex);
+                codigo = DomainEnumExtensions.DenialGetString(DenialLevel.ErrorNoDefinido);
+                mensaje = JCHNETConversions.ExceptionToString(ex);
                 return false;
             }
         }
