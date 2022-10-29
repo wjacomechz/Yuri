@@ -14,8 +14,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\YURI.APLICACION\YURI.APLICACION.csproj" />
-    <ProjectReference Include="..\YURI.INFRA.REPOSITORIO.SQLSERVER\YURI.INFRA.REPOSITORIO.SQLSERVER.csproj" />
     <ProjectReference Include="..\YURI.PRESENTADORES\YURI.PRESENTADORES.csproj" />
+    <ProjectReference Include="..\YURI.REPOSITORIO.SQLSERVER\YURI.REPOSITORIO.SQLSERVER.csproj" />
     <ProjectReference Include="..\YURI.TRANSVERSAL.COMMON\YURI.TRANSVERSAL.COMMON.csproj" />
   </ItemGroup>
 

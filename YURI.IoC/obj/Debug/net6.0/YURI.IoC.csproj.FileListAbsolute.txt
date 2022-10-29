@@ -28,11 +28,9 @@ C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.APLICACION.dll
 C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.APLICACION.DTOs.dll
 C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.APLICACION.PUERTOS.dll
 C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.DOMINIO.dll
-C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.INFRA.REPOSITORIO.SQLSERVER.dll
 C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.PRESENTADORES.dll
 C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.TRANSVERSAL.COMMON.dll
 C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.APLICACION.pdb
-C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.INFRA.REPOSITORIO.SQLSERVER.pdb
 C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.PRESENTADORES.pdb
 C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.TRANSVERSAL.COMMON.pdb
 C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.APLICACION.DTOs.pdb
@@ -50,3 +48,7 @@ C:\Users\HP\source\repos\Yuri\YURI.IoC\obj\Debug\net6.0\YURI.IoC.pdb
 C:\Users\HP\source\repos\Yuri\YURI.IoC\obj\Debug\net6.0\ref\YURI.IoC.dll
 C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.DOMINIO.ADMINISTRACION.dll
 C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.DOMINIO.ADMINISTRACION.pdb
+C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.dll
+C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.REPOSITORIO.SQLSERVER.dll
+C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.REPOSITORIO.SQLSERVER.pdb
+C:\Users\HP\source\repos\Yuri\YURI.IoC\bin\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.pdb

@@ -411,7 +411,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Mvc.Core/2.2.0": {
+      "Microsoft.AspNetCore.Mvc.Core/2.2.5": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Core": "2.2.0",
@@ -3227,6 +3227,7 @@
           "YURI.APLICACION.PUERTOS": "1.0.0",
           "YURI.DOMINIO": "1.0.0",
           "YURI.DOMINIO.ADMINISTRACION": "1.0.0",
+          "YURI.DOMINIO.SEGURIDAD": "1.0.0",
           "YURI.TRANSVERSAL.COMMON": "1.0.0"
         },
         "compile": {
@@ -3277,6 +3278,16 @@
         },
         "runtime": {
           "bin/placeholder/YURI.DOMINIO.ADMINISTRACION.dll": {}
+        }
+      },
+      "YURI.DOMINIO.SEGURIDAD/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/YURI.DOMINIO.SEGURIDAD.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YURI.DOMINIO.SEGURIDAD.dll": {}
         }
       },
       "YURI.PRESENTADORES/1.0.0": {
@@ -3636,16 +3647,16 @@
         "microsoft.aspnetcore.mvc.apiexplorer.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Mvc.Core/2.2.0": {
-      "sha512": "ALiY4a6BYsghw8PT5+VU593Kqp911U3w9f/dH9/ZoI3ezDsDAGiObqPu/HP1oXK80Ceu0XdQ3F0bx5AXBeuN/Q==",
+    "Microsoft.AspNetCore.Mvc.Core/2.2.5": {
+      "sha512": "/8sr8ixIUD57UFwUntha9bOwex7/AkZfdk1f9oNJG1Ek7p/uuKVa7fuHmYZpQOf35Oxrt+2Ku4WPwMSbNxOuWg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.mvc.core/2.2.0",
+      "path": "microsoft.aspnetcore.mvc.core/2.2.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.xml",
-        "microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.mvc.core.2.2.5.nupkg.sha512",
         "microsoft.aspnetcore.mvc.core.nuspec"
       ]
     },
@@ -8962,6 +8973,11 @@
       "path": "../YURI.DOMINIO.ADMINISTRACION/YURI.DOMINIO.ADMINISTRACION.csproj",
       "msbuildProject": "../YURI.DOMINIO.ADMINISTRACION/YURI.DOMINIO.ADMINISTRACION.csproj"
     },
+    "YURI.DOMINIO.SEGURIDAD/1.0.0": {
+      "type": "project",
+      "path": "../YURI.DOMINIO.SEGURIDAD/YURI.DOMINIO.SEGURIDAD.csproj",
+      "msbuildProject": "../YURI.DOMINIO.SEGURIDAD/YURI.DOMINIO.SEGURIDAD.csproj"
+    },
     "YURI.PRESENTADORES/1.0.0": {
       "type": "project",
       "path": "../YURI.PRESENTADORES/YURI.PRESENTADORES.csproj",
@@ -8976,6 +8992,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.AspNetCore.Mvc >= 2.2.0",
+      "Microsoft.AspNetCore.Mvc.Core >= 2.2.5",
       "YURI.APLICACION.DTOs >= 1.0.0",
       "YURI.PRESENTADORES >= 1.0.0"
     ]
@@ -9029,6 +9046,10 @@
           "Microsoft.AspNetCore.Mvc": {
             "target": "Package",
             "version": "[2.2.0, )"
+          },
+          "Microsoft.AspNetCore.Mvc.Core": {
+            "target": "Package",
+            "version": "[2.2.5, )"
           }
         },
         "imports": [

@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Yuri\YURI.DOMINIO.SEGURIDAD\bin\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.deps.json
+C:\Users\HP\source\repos\Yuri\YURI.DOMINIO.SEGURIDAD\bin\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.dll
+C:\Users\HP\source\repos\Yuri\YURI.DOMINIO.SEGURIDAD\bin\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.pdb
+C:\Users\HP\source\repos\Yuri\YURI.DOMINIO.SEGURIDAD\obj\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yuri\YURI.DOMINIO.SEGURIDAD\obj\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Yuri\YURI.DOMINIO.SEGURIDAD\obj\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Yuri\YURI.DOMINIO.SEGURIDAD\obj\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.AssemblyInfo.cs
+C:\Users\HP\source\repos\Yuri\YURI.DOMINIO.SEGURIDAD\obj\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yuri\YURI.DOMINIO.SEGURIDAD\obj\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.dll
+C:\Users\HP\source\repos\Yuri\YURI.DOMINIO.SEGURIDAD\obj\Debug\net6.0\refint\YURI.DOMINIO.SEGURIDAD.dll
+C:\Users\HP\source\repos\Yuri\YURI.DOMINIO.SEGURIDAD\obj\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.pdb
+C:\Users\HP\source\repos\Yuri\YURI.DOMINIO.SEGURIDAD\obj\Debug\net6.0\ref\YURI.DOMINIO.SEGURIDAD.dll

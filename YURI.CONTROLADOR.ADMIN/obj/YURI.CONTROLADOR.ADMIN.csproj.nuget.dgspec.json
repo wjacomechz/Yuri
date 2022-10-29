@@ -1,0 +1,590 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.CONTROLADOR.ADMIN\\YURI.CONTROLADOR.ADMIN.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.DTOs\\YURI.APLICACION.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.DTOs\\YURI.APLICACION.DTOs.csproj",
+        "projectName": "YURI.APLICACION.DTOs",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.DTOs\\YURI.APLICACION.DTOs.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.PUERTOS\\YURI.APLICACION.PUERTOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.PUERTOS\\YURI.APLICACION.PUERTOS.csproj",
+        "projectName": "YURI.APLICACION.PUERTOS",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.PUERTOS\\YURI.APLICACION.PUERTOS.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.PUERTOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.DTOs\\YURI.APLICACION.DTOs.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.DTOs\\YURI.APLICACION.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION\\YURI.APLICACION.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION\\YURI.APLICACION.csproj",
+        "projectName": "YURI.APLICACION",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION\\YURI.APLICACION.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.DTOs\\YURI.APLICACION.DTOs.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.DTOs\\YURI.APLICACION.DTOs.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.PUERTOS\\YURI.APLICACION.PUERTOS.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.PUERTOS\\YURI.APLICACION.PUERTOS.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.ADMINISTRACION\\YURI.DOMINIO.ADMINISTRACION.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.ADMINISTRACION\\YURI.DOMINIO.ADMINISTRACION.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.SEGURIDAD\\YURI.DOMINIO.SEGURIDAD.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.SEGURIDAD\\YURI.DOMINIO.SEGURIDAD.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\YURI.DOMINIO.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\YURI.DOMINIO.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.CONTROLADOR.ADMIN\\YURI.CONTROLADOR.ADMIN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.CONTROLADOR.ADMIN\\YURI.CONTROLADOR.ADMIN.csproj",
+        "projectName": "YURI.CONTROLADOR.ADMIN",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.CONTROLADOR.ADMIN\\YURI.CONTROLADOR.ADMIN.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.CONTROLADOR.ADMIN\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.PUERTOS\\YURI.APLICACION.PUERTOS.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION.PUERTOS\\YURI.APLICACION.PUERTOS.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.PRESENTADORES\\YURI.PRESENTADORES.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.PRESENTADORES\\YURI.PRESENTADORES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.ADMINISTRACION\\YURI.DOMINIO.ADMINISTRACION.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.ADMINISTRACION\\YURI.DOMINIO.ADMINISTRACION.csproj",
+        "projectName": "YURI.DOMINIO.ADMINISTRACION",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.ADMINISTRACION\\YURI.DOMINIO.ADMINISTRACION.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.ADMINISTRACION\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.SEGURIDAD\\YURI.DOMINIO.SEGURIDAD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.SEGURIDAD\\YURI.DOMINIO.SEGURIDAD.csproj",
+        "projectName": "YURI.DOMINIO.SEGURIDAD",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.SEGURIDAD\\YURI.DOMINIO.SEGURIDAD.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO.SEGURIDAD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\YURI.DOMINIO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\YURI.DOMINIO.csproj",
+        "projectName": "YURI.DOMINIO",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\YURI.DOMINIO.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.DOMINIO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.PRESENTADORES\\YURI.PRESENTADORES.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.PRESENTADORES\\YURI.PRESENTADORES.csproj",
+        "projectName": "YURI.PRESENTADORES",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.PRESENTADORES\\YURI.PRESENTADORES.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.PRESENTADORES\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION\\YURI.APLICACION.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.APLICACION\\YURI.APLICACION.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj",
+        "projectName": "YURI.TRANSVERSAL.COMMON",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.TRANSVERSAL.COMMON\\YURI.TRANSVERSAL.COMMON.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.TRANSVERSAL.COMMON\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Net.Http.Headers": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.23.1, )"
+            },
+            "System.Security.Cryptography.Xml": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

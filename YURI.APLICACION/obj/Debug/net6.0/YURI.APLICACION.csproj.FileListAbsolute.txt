@@ -40,3 +40,5 @@ C:\Users\HP\source\repos\Yuri\YURI.APLICACION\obj\Debug\net6.0\YURI.APLICACION.p
 C:\Users\HP\source\repos\Yuri\YURI.APLICACION\obj\Debug\net6.0\ref\YURI.APLICACION.dll
 C:\Users\HP\source\repos\Yuri\YURI.APLICACION\bin\Debug\net6.0\YURI.DOMINIO.ADMINISTRACION.dll
 C:\Users\HP\source\repos\Yuri\YURI.APLICACION\bin\Debug\net6.0\YURI.DOMINIO.ADMINISTRACION.pdb
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION\bin\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.dll
+C:\Users\HP\source\repos\Yuri\YURI.APLICACION\bin\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.pdb

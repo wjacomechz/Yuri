@@ -14,6 +14,7 @@
     <ProjectReference Include="..\YURI.APLICACION.DTOs\YURI.APLICACION.DTOs.csproj" />
     <ProjectReference Include="..\YURI.APLICACION.PUERTOS\YURI.APLICACION.PUERTOS.csproj" />
     <ProjectReference Include="..\YURI.DOMINIO.ADMINISTRACION\YURI.DOMINIO.ADMINISTRACION.csproj" />
+    <ProjectReference Include="..\YURI.DOMINIO.SEGURIDAD\YURI.DOMINIO.SEGURIDAD.csproj" />
     <ProjectReference Include="..\YURI.DOMINIO\YURI.DOMINIO.csproj" />
     <ProjectReference Include="..\YURI.TRANSVERSAL.COMMON\YURI.TRANSVERSAL.COMMON.csproj" />
   </ItemGroup>

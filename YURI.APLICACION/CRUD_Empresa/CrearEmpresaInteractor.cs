@@ -1,20 +1,11 @@
 ﻿using FluentValidation;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using YURI.APLICACION.Common.Validators;
 using YURI.APLICACION.DTOs.Common;
 using YURI.APLICACION.DTOs.CRUD_Empresa;
-using YURI.APLICACION.DTOs.CRUD_Usuario;
 using YURI.APLICACION.PUERTOS.CRUD_Empresa;
 using YURI.DOMINIO.ADMINISTRACION.Interfaces;
 using YURI.DOMINIO.ADMINISTRACION.POCOEntidades;
-using YURI.DOMINIO.Constants;
 using YURI.DOMINIO.Excepciones;
-using YURI.DOMINIO.POCOEntidades.Seguridades;
-using YURI.TRANSVERSAL.COMMON;
 
 namespace YURI.APLICACION.CRUD_Empresa
 {

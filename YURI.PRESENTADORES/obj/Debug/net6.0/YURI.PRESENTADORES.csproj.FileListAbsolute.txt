@@ -23,3 +23,5 @@ C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\obj\Debug\net6.0\YURI.PRESENTAD
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\obj\Debug\net6.0\ref\YURI.PRESENTADORES.dll
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.DOMINIO.ADMINISTRACION.dll
 C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.DOMINIO.ADMINISTRACION.pdb
+C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.dll
+C:\Users\HP\source\repos\Yuri\YURI.PRESENTADORES\bin\Debug\net6.0\YURI.DOMINIO.SEGURIDAD.pdb

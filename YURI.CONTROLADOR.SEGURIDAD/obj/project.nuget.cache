@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0ZwrP5Ri2gie7AfE3pdW9U0oecGxWbyio0mtpMfXSSdPokQn8oDEmkFN/QJ/mbQdPGkfEUpVYeSpWJxbZQvN/w==",
+  "dgSpecHash": "2vgI5rwYpk9l3a3XB37+1er4+gD6sQan6KOia6X/fPE+4KX/Hxxapex5q+QP83kAs74MQrd49x2LfjKZgOPieQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\source\\repos\\Yuri\\YURI.CONTROLADOR.SEGURIDAD\\YURI.CONTROLADOR.SEGURIDAD.csproj",
   "expectedPackageFiles": [
@@ -28,7 +28,7 @@
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.mvc.analyzers\\2.2.0\\microsoft.aspnetcore.mvc.analyzers.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.mvc.apiexplorer\\2.2.0\\microsoft.aspnetcore.mvc.apiexplorer.2.2.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.0\\microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.5\\microsoft.aspnetcore.mvc.core.2.2.5.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.mvc.cors\\2.2.0\\microsoft.aspnetcore.mvc.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.mvc.dataannotations\\2.2.0\\microsoft.aspnetcore.mvc.dataannotations.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.mvc.formatters.json\\2.2.0\\microsoft.aspnetcore.mvc.formatters.json.2.2.0.nupkg.sha512",

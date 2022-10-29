@@ -5,8 +5,8 @@ using YURI.APLICACION.DTOs.CRUD_Usuario;
 using YURI.APLICACION.PUERTOS.CRUD_Usuario;
 using YURI.DOMINIO.Constants;
 using YURI.DOMINIO.Excepciones;
-using YURI.DOMINIO.Interfaces.Repositorios;
-using YURI.DOMINIO.POCOEntidades.Seguridades;
+using YURI.DOMINIO.SEGURIDAD.Interfaces;
+using YURI.DOMINIO.SEGURIDAD.POCOEntidades;
 using YURI.TRANSVERSAL.COMMON;
 
 namespace YURI.APLICACION.CRUD_Usuario
@@ -45,7 +45,7 @@ namespace YURI.APLICACION.CRUD_Usuario
                     Pass = ClaveEncriptada
                 };
                 string codigo = string.Empty, mensaje = string.Empty;
-                UsuarioRepositorio.RegistrarUsuario(dm_usuario, ref codigo, ref mensaje);
+                UsuarioRepositorio.Registrar(dm_usuario, ref codigo, ref mensaje);
                 respuesta.CodigoRespuesta = codigo;
                 respuesta.MensajeRetorno = mensaje;
             }
